@@ -3,6 +3,7 @@ Missile Defence Game
 
 Copyright (C) 2011-2012 Ryan Lothian.
 
+![Screenshot of Missile Defence Game](screenshot.png)
 
 License: GPL3
 -------------
