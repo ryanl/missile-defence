@@ -42,6 +42,6 @@ Keys:  q   quit
  
 Feedback
 --------
-Please e-mail ryan.lothian <at> users.sourceforge.net
+Please e-mail github <at> ryanlothian.com
 
 Thanks!
