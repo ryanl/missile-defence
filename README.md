@@ -42,6 +42,6 @@ Keys:  q   quit
  
 Feedback
 --------
-Please e-mail github <at> ryanlothian.com
+Please e-mail github @ ryanlothian.com
 
 Thanks!
