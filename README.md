@@ -1,7 +1,7 @@
 Missile Defence Game
 ====================
 
-![Screenshot of Missile Defence Game](screenshot.png)
+[![Missile Defence](screenshot.png)](https://www.youtube.com/watch?v=yhg2Uu7OApI)
 
 License: Apache2
 -------------
