@@ -33,9 +33,11 @@ How to play
 Use the mouse to aim and fire.
 
 
-Keys:  q   quit
-       r   reset
-       a   auto aiming and firing (e.g. for use as a screensaver)
+Keys:
+
+* q   quit
+* r   reset
+* a   auto aiming and firing (e.g. for use as a screensaver)
 
  
 Feedback
