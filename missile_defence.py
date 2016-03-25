@@ -3,8 +3,8 @@
 """
     Missile Defence Game
     
-    Copyright (C) 2011-2012 Ryan Lothian.
-    See LICENSE (GNU GPL version 3 or later).
+    Copyright (C) 2011-2016 Ryan Lothian.
+    See LICENSE (Apache 2).
 """
 
 import pygame
@@ -146,7 +146,7 @@ class ShieldDome(object):
             
             hit = ((x_diff * x_diff) + (y_diff * y_diff)) <= 1
             if hit:
-               self.bright += 15
+               self.bright += 30
                if self.bright > 70: self.bright = 70
                self.health -= 1
                
@@ -184,6 +184,8 @@ class MissileDefenceGame(object):
         self.reset()
         
         self.screen = pygame.display.set_mode(self.resolution)
+        pygame.display.set_caption("Missile defence")
+
 #                                              pygame.FULLSCREEN)
         
         self.buildings_surface = pygame.Surface(self.resolution, 0, 8)
